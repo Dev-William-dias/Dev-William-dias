@@ -36,7 +36,7 @@
   </a>
 
   <a href="https://devcaverna.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Website logo" />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=web&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="35" alt="Website" />
   </a>
 </div>
 
